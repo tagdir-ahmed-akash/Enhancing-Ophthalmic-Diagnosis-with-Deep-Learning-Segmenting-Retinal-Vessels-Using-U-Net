@@ -1,0 +1,2 @@
+# Enhancing-Ophthalmic-Diagnosis-with-Deep-Learning-Segmenting-Retinal-Vessels-Using-U-Net
+Enhancing Ophthalmic Diagnosis with Deep Learning: Segmenting Retinal Vessels Using U-Net. This project implements a U-Net model for precise retinal blood vessel segmentation from fundus images, aiding in early detection of diabetic retinopathy and other ocular diseases. Includes data preprocessing, model training, and evaluation.
